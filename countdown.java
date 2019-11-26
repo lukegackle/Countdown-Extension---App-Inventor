@@ -6,7 +6,7 @@ This extension provides a range of functions to get the duration between two spe
 
 Created by: Luke Gackle
 
-NOTE: I just ask that contributors to this extension post commits to this repository for consistency and retain the same naming conventions, contributors may add thier name or username below along with the version number they have created. Contributors may send any documentation they would like me to upload onto the extension page to me directly via https://lukestoolkit.blogspot.com/p/extension-update.html
+NOTE: I just ask that contributors to this extension post commits to this repository for consistency and retain the same naming conventions, contributors may add thier name or username below along with the version number they have created. Contributors may send any documentation they would like me to upload onto the extension page to me directly via https://thunkableblocks.blogspot.com/p/extension-update.html
 
 Other Contributors:
 Nill
